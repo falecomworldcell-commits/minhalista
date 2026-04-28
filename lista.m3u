@@ -1,21 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="📺 ESPORTES",PREMIERE HD
-http://link-aqui
+#EXTINF:-1 group-title="📺 ESPORTES",• NSPORTS (Esportes Ao Vivo)
+https://nsports-p-linear.cdn.jmvstream.com/w/lp_nsports_desktop/playlist.m3u8
 
-#EXTINF:-1 group-title="📺 ESPORTES",ESPN HD
-http://link-aqui
+#EXTINF:-1 group-title="📺 NOTICIAS",• JOVEM PAN AO VIVO
+https://jovempan.akamaized.net/hls/live/2024921/jovempan/master.m3u8
 
-#EXTINF:-1 group-title="📺 ESPORTES",SPORTV HD
-http://link-aqui
+#EXTINF:-1 group-title="📺 NOTICIAS",• RECORD NEWS
+https://record.uol.com.br/hls/live/record.m3u8
 
-#EXTINF:-1 group-title="📺 ESPORTES",NSPORTS HD
-http://link-aqui
-
-#EXTINF:-1 group-title="📺 ESPORTES",SPORTV NET HD
-http://link-aqui
-
-#EXTINF:-1 group-title="🎥 HBO",HBO HD
-http://link-aqui
-
-#EXTINF:-1 group-title="🎥 HBO",HBO 2 HD
-http://link-aqui
+#EXTINF:-1 group-title="⚽ TESTE",• CANAL DE TESTE VIDEO
+https://test-streams.mux.dev/x264_720p_1500kbps_30fps.mp4
