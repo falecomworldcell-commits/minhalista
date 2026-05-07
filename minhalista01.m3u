@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="⚽ CANAIS ESPORTES",PREMIERE CLUBES HD
+http://ca.v7.me:80/live/99/99/31.ts
+
+#EXTINF:-1 group-title="⚽ CANAIS ESPORTES",ESPN HD
+http://ca.v7.me:80/live/99/99/20.ts
+
+#EXTINF:-1 group-title="⚽ CANAIS ESPORTES",SPORTV HD
+http://ca.v7.me:80/live/99/99/40.ts
+
+#EXTINF:-1 group-title="🎬 CANAIS FILMES",HBO HD
+http://ca.v7.me:80/live/99/99/100.ts
+
+#EXTINF:-1 group-title="🎬 CANAIS FILMES",TELECINE ACTION HD
+http://ca.v7.me:80/live/99/99/110.ts
+
+#EXTINF:-1 group-title="🎬 CANAIS FILMES",WARNER CHANNEL
+http://ca.v7.me:80/live/99/99/120.ts
+
+#EXTINF:-1 group-title="📺 CANAIS ABERTOS",GLOBO HD
+https://cdn.jmvstream.com/w/lp_globo_desktop/playlist.m3u8
+
+#EXTINF:-1 group-title="📺 CANAIS ABERTOS",SBT HD
+https://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/playlist.m3u8
+
+#EXTINF:-1 group-title="📺 CANAIS ABERTOS",RECORD HD
+http://calertahls-lh.akamaihd.net/i/calertahls_1@167570/index_480_av-b.m3u8?
